@@ -1,0 +1,12 @@
+C:\Users\acpir\source\repos\Vision\Vision.Domain\bin\Debug\netcoreapp2.0\Vision.Domain.deps.json
+C:\Users\acpir\source\repos\Vision\Vision.Domain\bin\Debug\netcoreapp2.0\Vision.Domain.dll
+C:\Users\acpir\source\repos\Vision\Vision.Domain\bin\Debug\netcoreapp2.0\Vision.Domain.pdb
+C:\Users\acpir\source\repos\Vision\Vision.Domain\bin\Debug\netcoreapp2.0\Vision.Core.dll
+C:\Users\acpir\source\repos\Vision\Vision.Domain\bin\Debug\netcoreapp2.0\Vision.Core.pdb
+C:\Users\acpir\source\repos\Vision\Vision.Domain\obj\Debug\netcoreapp2.0\Vision.Domain.csprojResolveAssemblyReference.cache
+C:\Users\acpir\source\repos\Vision\Vision.Domain\obj\Debug\netcoreapp2.0\Vision.Domain.csproj.CoreCompileInputs.cache
+C:\Users\acpir\source\repos\Vision\Vision.Domain\obj\Debug\netcoreapp2.0\Vision.Domain.AssemblyInfoInputs.cache
+C:\Users\acpir\source\repos\Vision\Vision.Domain\obj\Debug\netcoreapp2.0\Vision.Domain.AssemblyInfo.cs
+C:\Users\acpir\source\repos\Vision\Vision.Domain\obj\Debug\netcoreapp2.0\Vision.Domain.csproj.CopyComplete
+C:\Users\acpir\source\repos\Vision\Vision.Domain\obj\Debug\netcoreapp2.0\Vision.Domain.dll
+C:\Users\acpir\source\repos\Vision\Vision.Domain\obj\Debug\netcoreapp2.0\Vision.Domain.pdb

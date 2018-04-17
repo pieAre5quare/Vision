@@ -1,0 +1,9 @@
+C:\Users\acpir\source\repos\Vision\Vision.Core\bin\Debug\netcoreapp2.0\Vision.Core.deps.json
+C:\Users\acpir\source\repos\Vision\Vision.Core\bin\Debug\netcoreapp2.0\Vision.Core.dll
+C:\Users\acpir\source\repos\Vision\Vision.Core\obj\Debug\netcoreapp2.0\Vision.Core.csproj.CoreCompileInputs.cache
+C:\Users\acpir\source\repos\Vision\Vision.Core\obj\Debug\netcoreapp2.0\Vision.Core.AssemblyInfoInputs.cache
+C:\Users\acpir\source\repos\Vision\Vision.Core\obj\Debug\netcoreapp2.0\Vision.Core.AssemblyInfo.cs
+C:\Users\acpir\source\repos\Vision\Vision.Core\bin\Debug\netcoreapp2.0\Vision.Core.pdb
+C:\Users\acpir\source\repos\Vision\Vision.Core\obj\Debug\netcoreapp2.0\Vision.Core.dll
+C:\Users\acpir\source\repos\Vision\Vision.Core\obj\Debug\netcoreapp2.0\Vision.Core.pdb
+C:\Users\acpir\source\repos\Vision\Vision.Core\obj\Debug\netcoreapp2.0\Vision.Core.csprojResolveAssemblyReference.cache
